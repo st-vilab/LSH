@@ -1,1 +1,1 @@
-1. Ori * M = Opt (M으로 다른 프롬프트 변환시 동일한가 체크)
+This code is based on Null-text Inversion
